@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: c43be3cade3d2c6448d9ab268939ab9c
+timeCreated: 1507126302
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - particles1: {fileID: 1339612451003440, guid: 7726b3fd0043301438d6a18ff6516b6b,
+      type: 2}
+  - particlesAlly: {fileID: 1626366606833118, guid: 463c51f45bd070b47bdc723d08745053,
+      type: 2}
+  - WinText: {fileID: 114895457693564040, guid: 06a5f5ece031e314a862349167ce0aee,
+      type: 2}
+  - civilesSprite: {fileID: 114440374312070428, guid: 467b4c10c6553cf4d9982d0238b7605a,
+      type: 2}
+  - civilesSprite2: {fileID: 114581617577884428, guid: c9c8a9b0e79d4e74692e42c94b4b8634,
+      type: 2}
+  - excivilesSprite: {fileID: 114980773134805678, guid: 0bbf35db4980e64449f30d48e1efcb32,
+      type: 2}
+  - excivilesSprite2: {fileID: 114392940994958600, guid: 0ee3b884da5e51a43969418d9f9d4abc,
+      type: 2}
+  - reinasprite: {fileID: 114860821046477086, guid: 3450989e9cd409a49bf44b6464ce4ee7,
+      type: 2}
+  - enemysprite: {fileID: 114326940734073356, guid: 80122cbdd41e92d458ef00f53b91cd5e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

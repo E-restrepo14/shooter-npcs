@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8699a0941e3bda745a668961aa5f1d1d
+timeCreated: 1507154377
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - navmeshagent: {instanceID: 0}
+  - Enemigo: {instanceID: 0}
+  - Aliado: {instanceID: 0}
+  - particulasenemigas: {fileID: 1600882669855870, guid: 24aa7f66816e18245b310e0cf131c42e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
